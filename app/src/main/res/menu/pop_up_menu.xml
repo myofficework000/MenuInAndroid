@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mango"
+        android:icon="@drawable/mango"
+        android:title="@string/mango" />
+    <item
+        android:id="@+id/kiwi"
+        android:icon="@drawable/kiwi"
+        android:title="@string/kiwi" />
+    <item
+        android:id="@+id/apple"
+        android:icon="@drawable/apple"
+        android:title="@string/apple" />
+</menu>

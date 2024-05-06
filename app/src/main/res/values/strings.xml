@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MenuDemo</string>
+    <string name="settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="logout">Logout</string>
+    <string name="kiwi">Kiwi</string>
+    <string name="mango">mango</string>
+    <string name="apple">Apple</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+</resources>
